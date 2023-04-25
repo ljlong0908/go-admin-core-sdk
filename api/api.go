@@ -8,10 +8,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/go-admin-team/go-admin-core/logger"
-	"github.com/go-admin-team/go-admin-core/sdk/pkg"
-	"github.com/go-admin-team/go-admin-core/sdk/pkg/response"
-	"github.com/go-admin-team/go-admin-core/sdk/service"
 	"github.com/go-admin-team/go-admin-core/tools/language"
+	"github.com/ljlong0908/go-admin-core-sdk/pkg"
+	"github.com/ljlong0908/go-admin-core-sdk/pkg/response"
+	"github.com/ljlong0908/go-admin-core-sdk/service"
 	"gorm.io/gorm"
 	"net/http"
 )

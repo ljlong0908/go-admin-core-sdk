@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core/sdk
+module github.com/ljlong0908/go-admin-core-sdk
 
 go 1.18
 
